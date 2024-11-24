@@ -1,7 +1,7 @@
 import React from "react";
 
 const ProductsGrid = () => {
-  return <div></div>;
+  return <div>ProductsGrid</div>;
 };
 
 export default ProductsGrid;
